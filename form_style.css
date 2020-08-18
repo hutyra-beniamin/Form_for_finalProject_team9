@@ -1,0 +1,12 @@
+* {
+    font-size: 1.5vw;
+}
+
+#form {
+    padding: 2vw;
+    margin: 2vw;
+    border: 3px solid;
+    width: 40%;
+    border-radius: 21px;
+    border-color: #226597;
+}
